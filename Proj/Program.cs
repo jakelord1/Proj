@@ -9,4 +9,5 @@ Console.WriteLine("6");
 Console.WriteLine("7");
 Console.WriteLine("8");
 Console.WriteLine("9");
+Console.WriteLine("10");
 
