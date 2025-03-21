@@ -16,6 +16,7 @@ Console.WriteLine("Sasha - 2");
 Console.WriteLine("Sasha - 3"); 
 Console.WriteLine("Sasha - 4"); 
 Console.WriteLine("Sasha - 5");
+Console.WriteLine("Sasha - 6");
 
 
 
